@@ -7,7 +7,7 @@ function calculateArea() {
     length = parseFloat(document.getElementById('length').value);
     width = parseFloat(document.getElementById('width').value);
     
-    let area = lenght * width;
+    let area = length * width;
 
     //.innerText = The area of the rectangle is: ${area};: Once the element is accessed, 
     //.innerText is used to modify the text content within that HTML element.
